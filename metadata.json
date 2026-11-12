@@ -1,0 +1,6 @@
+{
+  "name": "AURA.IO — Cosmic Energy Team Survival",
+  "description": "A top-down 2D multiplayer cosmic energy team survival game where Positive Aura and Negative Aura entities clash across multi-round arenas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
